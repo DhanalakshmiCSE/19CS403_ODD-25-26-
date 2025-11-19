@@ -11,7 +11,8 @@ knowsPassword – whether she knows the secret password (boolean)
 
 The gate then evaluates her truthfulness using logical operators:
 
-<img width="390" height="134" alt="image" src="https://github.com/user-attachments/assets/0660b40a-98a0-47bd-9151-2abc1a08e17d" />
+<img width="390" height="134" alt="m1(a)" src="https://github.com/user-attachments/assets/72c8eec9-b802-4240-9ca9-484cd3320b14" />
+
 
 Write a program that:
 
@@ -100,19 +101,12 @@ public class Main{
     }
 }
 ```
-
-
-
-
 ## OUTPUT:
-
-<img width="848" height="415" alt="image" src="https://github.com/user-attachments/assets/47e4fe9b-ed37-4b1f-a010-fd6bb9f111fb" />
-
-
+<img width="848" height="415" alt="m1(b)" src="https://github.com/user-attachments/assets/abeb199c-284f-42d9-ab45-9c5707adb51f" />
 
 ## RESULT:
-
 The program has been executed successfully and the desired output has been obtained.
+
 
 
 
