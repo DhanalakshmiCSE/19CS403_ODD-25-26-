@@ -8,11 +8,11 @@ To Create a class Vehicle with attributes as number, type and owner.
 ## ALGORITHM :
 1.	Start the program.
 2.	Import the necessary package 'java.util'
-3.	
-
-
-
-
+3.	Create a class named Vehicle with the following data members:
+4.	Create the first vehicle object v1.
+5.	Create the second vehicle object v2.
+6.	Display the details of v1 in the format:  number | type | owner
+7.	End
 
 ## PROGRAM:
  ```
@@ -21,7 +21,10 @@ Program to implement a Class and Objects using Java
 Developed by: DHANALAKSHMI S
 RegisterNumber:  212222040033
 */
+```
 
+## SOURCE CODE:
+```
 import java.util.Scanner;
 class Vehicle{
     String number;
@@ -48,20 +51,11 @@ public class Main {
         sc.close();
     }
 }
-
 ```
 
-## SOURCE CODE:
-
-
-
-
-
-
-
 ## OUTPUT:
-
-
+<img width="1239" height="359" alt="image" src="https://github.com/user-attachments/assets/2f5b1d01-400f-4d8f-9d5a-ec09d4e28870" />
 
 ## RESULT:
+The program has been executed successfully and the desired output has been obtained.
 
