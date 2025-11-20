@@ -2,6 +2,7 @@
 
 ## QUESTION:
 Develop a class with a static nested class. 
+
 <img width="654" height="156" alt="image" src="https://github.com/user-attachments/assets/1a0a4dfd-6039-4b0b-ac1a-a0a8769a7701" />
 
 ## AIM:
@@ -56,3 +57,4 @@ public class prog{
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
