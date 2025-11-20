@@ -41,7 +41,6 @@ Does NOT have key: <true/false>
 Does NOT know password: <true/false>
 
 ## AIM:
-Aim:
 To write a Java program that reads two integer numbers from the user and performs basic arithmetic operations such as addition, subtraction, multiplication, division, and modulus, and displays the results.
 
 
@@ -70,14 +69,12 @@ To write a Java program that reads two integer numbers from the user and perform
 
 6. Stop
 
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: BHARATH K
-RegisterNumber:  212222110006
+Developed by: DHANALAKSHMI S
+RegisterNumber:  212222040033
 */
 ```
 
@@ -106,6 +103,7 @@ public class Main{
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
 
 
 
